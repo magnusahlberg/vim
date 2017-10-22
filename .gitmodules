@@ -1,0 +1,6 @@
+[submodule "pack/magnus/start/syntastic"]
+	path = pack/magnus/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/magnus/start/swift.vim"]
+	path = pack/magnus/start/swift.vim
+	url = https://github.com/keith/swift.vim
